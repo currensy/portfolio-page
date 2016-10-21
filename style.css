@@ -3,9 +3,10 @@
 }
 #about {
     text-align: center;
-    background-color: #9dd5c7;
+
 
 }
+
 
 #portfolio {
     text-align: center;
@@ -27,4 +28,17 @@
 
 .clear{
     clear:both;
+}
+
+.social a {
+    color: lightgrey;
+    text-decoration: none;
+}
+
+.social > .linkedin a:hover{
+    color: #0177b5;
+}
+
+.social > .github a:hover{
+    color: black;
 }
